@@ -6,7 +6,7 @@ A multi-language implementation of basic statistics calculations (mean, median, 
 
 ```
 .
-├── Cprogramming/
+├── CProgramming/
 │   └── statistics.c
 ├── python/
 │   └── statistics.py
@@ -41,7 +41,7 @@ Both implementations calculate:
 
 1. Navigate to the C programming directory:
 ```bash
-cd Cprogramming
+cd CProgramming
 ```
 
 2. Compile the program:
